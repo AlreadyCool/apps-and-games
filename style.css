@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#App {
+    background-color: rgb(0, 136, 255);
+}
+
+#games {
+    background-color: color-mix(in srgb, color percentage, color percentage);
+}
+
+.line {
+    height: 6px;
+    background-color: color-mix(in hsl shorter hue, color percentage, color percentage);
+    width: 70px;
+    margin: 8px auto;
+}
